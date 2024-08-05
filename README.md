@@ -37,6 +37,7 @@ Gerando o streamlit para extrair as infomrmções no arquivo em anexo e gerando 
 ├── fake_data_generator.py       # Script para gerar dados fake com Faker
 ├── faker_users.csv              # Exemplo de base de dados fake
 ├── report_generate.py           # Script principal da aplicação Streamlit
+├── creds.json                   # Credencial para acessar o email, a senha tem que configurar no google para criar uma senha de aplicativo.
 ├── data                         # Pasta onde o codigo salva o anexo do email
         ├── users.csv            # Base de dados que salvou do e-mail
 └── README.md                    # Documentação do projeto
