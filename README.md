@@ -1,4 +1,4 @@
-# Automação de E-mail + Streamlit 
+# Gerando Relatório Automático Via Email
 
 Este repositório contém um projeto de automação que cria uma aplicação Streamlit a partir de uma base de dados recebida via e-mail. O objetivo é simplificar e automatizar o processo de visualização de dados, tornando-o mais eficiente e acessível.
 
